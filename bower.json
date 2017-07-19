@@ -1,0 +1,20 @@
+{
+  "name": "Basic-Portfolio",
+  "homepage": "https://github.com/deeCodeMonkey/Basic-Portfolio",
+  "authors": [
+    "DeeCodeMonkey <deidra108@gmail.com>"
+  ],
+  "description": "A test project for homework",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v3.3.7"
+  }
+}
